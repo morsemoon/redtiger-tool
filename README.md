@@ -168,6 +168,6 @@ Or
 
 <p>
   - <a href="[RedTigerSq](https://discord.gg/CvgKAXnJnf)">Discord</a><br>
-  - Creator: darkmoon.code <br>
+  - Creator: space.txt <br>
   - Version: 5.8
 </p>
